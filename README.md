@@ -3,8 +3,8 @@
 In this exercises, you should make a form which takes payment information from suckers who want to buy a grade, and store it in a `suckers.txt` file.
 
 
-### Student Details:
 
-- **Student ID**: U1710063
-- **Student Name**: Jasur Yuldoshev
-- **Section Number**: 003
+- **Student ID**: u1710149
+- **Student Name**: Azamjonov Islombek
+- **Section Number**: 001
+
